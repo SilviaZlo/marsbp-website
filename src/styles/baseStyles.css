@@ -1,0 +1,76 @@
+
+/* wrapper to restrict content on large screens */
+.wrapper {
+    max-width: 1260px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* setting base font size  */
+html {
+    font-size: 125%;
+}
+
+/* setting default */
+body {
+    font-family: "Lora Medium";
+    color: black;
+    font-size: 1rem;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* removing extra margin on text*/
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    max-width: 80%;
+}
+
+/* styles for text */
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+
+h2,
+h3,
+nav {
+    font-family: 'Dosis', sans-serif;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1rem;
+    font-family: 'DOsis', sans-serif;
+}
+
+
+/* // fonts: 
+$headingFont: "Roboto";
+$bodyFont: "Lora Medium"; */
+/* font-family: 'Archivo Black',
+sans-serif; */
+/* font-family: 'Dosis',
+sans-serif; */
+
+/* // colours: */
+/* --primary: rgb(196, 235, 22); yellow
+--secondary: black;  black
+--tertiary: white;
+--quaternary:rgb(227, 224, 224); grey */
+
+

@@ -1,0 +1,7 @@
+
+// const clubsArray = [
+//     curitiba [
+//         img: ;   
+//     ];
+
+// ]

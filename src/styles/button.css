@@ -1,0 +1,23 @@
+:root {
+    --primary: rgb(196, 235, 22);
+    --secondary: black;
+}
+
+.button {
+    padding: 8px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color: var(--primary);
+    color: var(--secondary);
+    border: 1px solid var(--secondary);
+}
+
+.button:hover,
+.button:focus {
+    
+            transition: all 0.3s ease-out;
+            background: var(--secondary);
+            color: white;
+            transition: 250ms;
+        
+}

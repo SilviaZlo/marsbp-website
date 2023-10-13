@@ -1,0 +1,91 @@
+
+ fetch(`https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCUfWL2L20ufCDSMRPVbk-xg&maxResults=10&order=date&key=AIzaSyBveSRPftiY-IzKE9ZSkq7R7aNC9-l-RMU`)
+ .then( res => res.json() )
+ .then( (jsonRes) => { 
+         console.log(jsonRes)
+              const videos = jsonRes.items;
+    console.log(videos)
+     videos.map((video) => 
+             for (let i=0; i < videos.legth; i++) { 
+
+ fetch(`https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCUfWL2L20ufCDSMRPVbk-xg&maxResults=10&order=date&key=AIzaSyBveSRPftiY-IzKE9ZSkq7R7aNC9-l-RMU`)
+ .then( res => res.json() )
+ .then( (jsonRes) => {
+     console.log(jsonRes)
+     const videos = jsonRes.items;
+     console.log(videos)
+     videos.map((video) => {
+         for (let i=0; i < videos.legth; i++) {
+    return (     <section className="gallery" id="gallery">
+    <div className="wrapper galleryWrapper">
+             <h2>Gallery</h2>
+             <div className='videosNpicsDiv'>
+                 <div className="mediaDiv">
+    <p>Videos</p>
+                     <Link to='https://www.youtube.com/c/BrasilBikePolo' target='_blank'>
+                             <img src={youtubeImg} alt="image of Brasil Bike Polo youtube channel" className="mediaImg" />
+                      </Link> 
+                    </div>
+
+                     <div>
+                    className="mediaDiv">
+                <p>Pictures</p> 
+                         <Link to='https://www.instagram.com/bikepolobrasil' target='_blank'>
+                            <img src={instagramImg} 
+                                alt="image of Brasil Bike Polo instagram account" className="mediaImg" />
+                        </Link> 
+                    </div> 
+          </div>
+               </div>
+         </section>
+    {
+   
+ 
+         })
+    })
+}
+        })
+
+
+
+         
+    // fetch(`https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCUfWL2L20ufCDSMRPVbk-xg&maxResults=10&order=date&key=AIzaSyBveSRPftiY-IzKE9ZSkq7R7aNC9-l-RMU`)
+    // .then( res => res.json() )
+    // .then( (jsonRes) => {
+        // console.log(jsonRes)
+    //     const videos = jsonRes.items;
+    //     console.log(videos)
+    //     videos.map((video) => {
+    //         for (let i=0; i < videos.legth; i++) {
+    //             return (
+    //                 <section className="gallery" id="gallery">
+    //                     <div className="wrapper galleryWrapper">
+    //                         <h2>Gallery</h2>
+    //                         <div className='videosNpicsDiv'>
+    //                             <div className="mediaDiv">
+    //                                 <p>Watch bike polo!</p>
+    //                                 <div>{video.snippet.title}</div>
+    //                             </div>
+    //                         </div>
+    //                     </div>
+    //                 </section>
+    //             )
+    //         }
+    //     })
+    // })
+    
+   
+        return (
+            <section className="gallery" id="gallery">
+                <div className="wrapper galleryWrapper">
+                    <h2>Gallery</h2>
+                    <div className='videosNpicsDiv'>
+                        <div className="mediaDiv">
+                            <p>Videos</p>
+                            <div>{video.snippet.title}</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        )
+    

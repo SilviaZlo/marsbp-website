@@ -1,0 +1,26 @@
+/* :root { */
+    /* --primary: rgb(196, 235, 22); 
+    --secondary: black;  
+    --tertiary: white;
+    --quaternary: rgb(255, 0, 128); */
+/* } */
+
+.aboutPage {
+    /* background-image: url(../assets/doxEmallets.jpg); */
+    /* box-shadow: inset 0 0 0 1000px rgba(227,224,224, 0.89); */
+    background-color: var(--tertiary);
+    border-left: 2px solid var(--quaternary);
+    border-right: 2px solid var(--quaternary);
+}
+
+.aboutContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4rem 2rem 2rem;
+}
+
+.aboutContainer h3, p {
+    margin: 1rem 0 0 0;
+
+}

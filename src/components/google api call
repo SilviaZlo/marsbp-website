@@ -1,0 +1,1195 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "fdTqdAtcMF1anAuanca3bASeeDA",
+    "regionCode": "CA",
+    "pageInfo": {
+        "totalResults": 35,
+        "resultsPerPage": 35
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8rsmseHxXxi09qt5yRjj1DdtZig",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YIQWAOOg_Bs"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-09T13:27:15Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #16 - com CHACO",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YIQWAOOg_Bs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YIQWAOOg_Bs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YIQWAOOg_Bs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-09T13:27:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xReNs_mKV5VWJSmUxojyK4jn1tg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DK0CV1FZASc"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-18T12:08:27Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #15 - ROLETA RUSSA",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DK0CV1FZASc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DK0CV1FZASc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DK0CV1FZASc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-18T12:08:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3lU4Y2wm9qVYp14zJsCkgNmX4E0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y3U5oLcjhhg"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-11T13:11:54Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #14 ROLETA RUSSA",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y3U5oLcjhhg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y3U5oLcjhhg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y3U5oLcjhhg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-11T13:11:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0-Z69EhfW_wL9S_ufYW9QGOaQSw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3QH2lYNnxg0"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-04T12:47:11Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #13 com Nelly",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: Juliana Trento (São Paulo Bike Polo) e Ana Coan (BH/ Floripa Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3QH2lYNnxg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3QH2lYNnxg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3QH2lYNnxg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-04T12:47:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YBoOhD7BxusIUTGw97fCW0ofZZY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uNgzKaC1_6I"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-28T13:08:16Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #12 com Carina, Dandinha e Maíra",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: Juliana Trento (São Paulo Bike Polo) e Ana Coan (BH/ Floripa Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uNgzKaC1_6I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uNgzKaC1_6I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uNgzKaC1_6I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-28T13:08:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cTVka_ZID9Y7k--JXnbdco7fZ_g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nSukdP4IU8c"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-26T19:05:30Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "VINHETA BIKE POLO A SÉRIO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nSukdP4IU8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nSukdP4IU8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nSukdP4IU8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-26T19:05:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z-iXQS104bknklRr70bJaUj1Y1I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e_PkGd1CW44"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-26T18:59:56Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "VINHETA INVASÃO POLEIRXS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e_PkGd1CW44/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e_PkGd1CW44/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e_PkGd1CW44/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-26T18:59:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kfEhpGV_UHpTOlKCAmdwX8okPZE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DBD5FgqD4Vc"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-21T01:30:16Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #11 - Convidados Francisco e André Luiz",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: Aninha Macarronica Convidados: Francisco e André Luiz Agradecimentos: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DBD5FgqD4Vc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DBD5FgqD4Vc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DBD5FgqD4Vc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-21T01:30:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RQtZjLJa42J0c7DkySgZb0O93os",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cVwTOZJvwpw"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-14T13:00:27Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #10 com Wagneta",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cVwTOZJvwpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cVwTOZJvwpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cVwTOZJvwpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-14T13:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uv_N-jNbijhdTA311yt1ZMTE0OU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Dlbzdyi4QrI"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-07T13:05:54Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #9 com Ana Macarrônica",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dlbzdyi4QrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dlbzdyi4QrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dlbzdyi4QrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-07T13:05:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qAMvyYyk5rnxZdP4myIeYQgfVOk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-4b8GihINeA"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-31T12:57:04Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #08 com Pulguinha",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-4b8GihINeA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-4b8GihINeA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-4b8GihINeA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-31T12:57:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3mFkepvUiVcYQ7BD4U547D9CqII",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fXz-eyNeP7s"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-24T12:51:32Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #07 com DOX",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fXz-eyNeP7s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fXz-eyNeP7s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fXz-eyNeP7s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-24T12:51:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bxfm-GzxnT1D5yqdCwZ6I3k85x0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jlf0q0ovQ3k"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-17T12:54:57Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #06 com Miguel Angel &quot;El Feo&quot; (Peru)",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo), Chico Paes (Curitiba Bike Polo), ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jlf0q0ovQ3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jlf0q0ovQ3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jlf0q0ovQ3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-17T12:54:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oaSCh4zHwonSXYZa4yt95Ae115E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CpNVMxnwzwQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-10T12:34:48Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #05 com VIKING",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CpNVMxnwzwQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CpNVMxnwzwQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CpNVMxnwzwQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-10T12:34:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PWDrEyb3jdnbcLiJ6ccXvy-NVzw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lcMfPoHPCTo"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-03T12:29:40Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #04 com Guilherme Seiti",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lcMfPoHPCTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lcMfPoHPCTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lcMfPoHPCTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-03T12:29:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "33MWa4HnhV0ldL6dC0RdssdcGls",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dX1UBP5tE_I"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-26T01:47:10Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #03 com Filipe Piá",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dX1UBP5tE_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dX1UBP5tE_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dX1UBP5tE_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-26T01:47:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ftMg_803ZrrT6ZnH5HUEbGHil5c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WAilim7fnSY"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-19T12:41:04Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #02  com Juju Brancatto",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WAilim7fnSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WAilim7fnSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WAilim7fnSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-19T12:41:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b00Np2nkh5b49udklWunOiYjK1o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H1yvdaCcOg4"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-12T12:27:48Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Live Polo a Sério #01",
+                "description": "Live Polo a Sério Toda quinta, as 20h Apresentação: André Thomazo (São Paulo Bike Polo) e Chico Paes (Curitiba Bike Polo) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H1yvdaCcOg4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H1yvdaCcOg4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H1yvdaCcOg4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-12T12:27:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Rka9QjnXTiHTrdO8zkwNagYTFCw",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLVpMY3KhyPx5KefsC4NMBtcNVF3OqgLFo"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-10T23:28:55Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Clipping Brasil Bike Polo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OjYeROL9upI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OjYeROL9upI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OjYeROL9upI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-10T23:28:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LrbBv-kKj6PpIukb_1U-5beLWeE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7UkgxWsEMFE"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-10T00:02:53Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "JOGO FINAL -  UNDERDOGS X DIZZY",
+                "description": "E A TÃO ESPERADA FINAL CHEGOU. UNDERDOGS: Wag, Suju e Jonny DIZZY: Hauck, Garavini e Toast (Substituição Gregório) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7UkgxWsEMFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7UkgxWsEMFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7UkgxWsEMFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-10T00:02:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4X9hNXGIv3KKIEmQxefQBO_vYMM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yX8miiKTOBc"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-09T23:58:45Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "SELVAGENS X DIZZY",
+                "description": "Jogo pegado, bem pegado SELVAGENS: Pulguinha, Geninho e JC (substituição Julio) DIZZY: Hauck, Garavini e Toast ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yX8miiKTOBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yX8miiKTOBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yX8miiKTOBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-09T23:58:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rGn6WInVFfMSCzD216O_85pzsk0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iA8nRUs8bQ8"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-02T13:25:52Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "CAIPIRA PIRA POLO X DIZZY",
+                "description": "Pense num jogo quente. CAIPIRA PIRA POLO: Alberto, Cave e Cassio DIZZY: Hauck, Garavini e Toast O V CAMPEONATO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iA8nRUs8bQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iA8nRUs8bQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iA8nRUs8bQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-02T13:25:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h1LxPplFuGswhVlWdtLCbZIIRdc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YzsXGdGFKjg"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-01T17:06:37Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "SELVAGENS X UNDERDOGS",
+                "description": "O clássico do Ibirapuera, SELVAGENS vs UNDERDOGS SELVAGENS: Pulguinha, JC e Geninho UNDERDOGS: Wag, Suju e ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YzsXGdGFKjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YzsXGdGFKjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YzsXGdGFKjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-01T17:06:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bZzMFUxqM4g14fFrfdC3aUWbLws",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5l29s9_e_oU"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-29T15:08:27Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "TIMEBOMBS X CAIPIRA PIRA POLO",
+                "description": "Jogo entre CAIPIRA PIRA POLO de São José dos Campos-SP contra os TIMEBOMBS de Santos-SP TIMEBOMBS: Julio, Eric e ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5l29s9_e_oU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5l29s9_e_oU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5l29s9_e_oU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-29T15:08:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GH8bS5I4SozXauBlAVJdS-F9irI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q5jbhqQzBK0"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-28T15:09:26Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "DIZZY X SEXY MACHINE",
+                "description": "O V CAMPEONATO BRASILEIRO DE BIKE POLO, aconteceu nos dias 1 e 2 de julho de 2017 na cidade de São José dos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q5jbhqQzBK0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q5jbhqQzBK0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q5jbhqQzBK0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-28T15:09:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kN5yCuylEZtmDxh5_QxkTXbMGOw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8CcuuOL8R_g"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-27T14:46:25Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "SELVAGENS X TIMEBOMBS",
+                "description": "SELVAGENS de São Paulo, enfrenta o TIMEBOMBS de Santos-SP SELVAGENS: Pulguinha, JC e Geninho TIMEBOMBS: Julio, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8CcuuOL8R_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8CcuuOL8R_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8CcuuOL8R_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-27T14:46:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TB7mRV6sdab-yn0r8PTjC0LYEnk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CaOn0XdtUS8"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-27T14:40:25Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "DIZZY X UNDERDOGS",
+                "description": "Um dos jogos mais emocionantes do V CAMPEONATO BRASILEIRO DE BIKE POLO Os paulistas do UNDERDOGS enfrentaram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CaOn0XdtUS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CaOn0XdtUS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CaOn0XdtUS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-27T14:40:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J5WSJdQTbaxAao0omSOlh-_C7Tc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i7YMfjHHV1k"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-25T14:47:55Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "NATURAL HIGH X CAIPIRA PIRA POLO",
+                "description": "Os mineiros do NATURAL HIGH enfrentaram os anfitriões CAIPIRA PIRA POLO de São José dos Campos-SP NATURAL HIGH: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i7YMfjHHV1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i7YMfjHHV1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i7YMfjHHV1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-25T14:47:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "URr0VwVLooj3Y7ioNYMOW-M2JzQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9fU2R8AkAUw"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-24T14:53:18Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "SEXY MACHINE X PEIXES DELIRANTES",
+                "description": "SEXY MACHINE jogou contra o time mais antigo do Brasil, PEIXES DELIRANTES de Curitiba-PR SEXY MACHINE: Lennon, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9fU2R8AkAUw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9fU2R8AkAUw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9fU2R8AkAUw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-24T14:53:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AAxtJO8EzIK9-W9tRkQZHYUAJOw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L2_AhVrPlTk"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-22T16:00:11Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "NATURAL HIGH X DIZZY",
+                "description": "Desafio mineiro, NATURAL HIGH e DIZZY, dois times de Belo Horizonte-MG se enfretaram nesse campeonato. NATURAL HIGH: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L2_AhVrPlTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L2_AhVrPlTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L2_AhVrPlTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-22T16:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MjVWYYsfH6ZqOuZabM18kvJHgGw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VAPwP_KUZfs"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-21T15:56:14Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "SEXY MACHINE X TIMEBOMBS",
+                "description": "Jogo entre SEXY MACHINE (misto de Santos-SP e Florianópolis-SC) contra os TIMEBOMBS de Santos-SP SEXY MACHINE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VAPwP_KUZfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VAPwP_KUZfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VAPwP_KUZfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-21T15:56:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PtYIGtc5E__ALjUYBB2-6VzaiV4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yElqgM_M2yw"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-20T22:45:31Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "SELVAGENS X PEIXES DELIRANTES",
+                "description": "Jogo entre SELVAGENS de São Paulo-SP contra os PEIXES DELIRANTES de Curitiba-PR SELVAGENS: Pulguinha, JC e ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yElqgM_M2yw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yElqgM_M2yw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yElqgM_M2yw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-20T22:45:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ChqeS3Z1kEMy92UD-bIKT1fwKCE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dd0sSDIHaYU"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-20T18:20:35Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "UNDERDOGS VS CAIPIRA PIRA POLO",
+                "description": "Jogo entre os anfitriões CAIPIRA PIRA POLO de São José dos Campos-SP contra os atuais campeões Brasileiro UNDERDOGS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dd0sSDIHaYU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dd0sSDIHaYU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dd0sSDIHaYU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-20T18:20:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "flmq1I1-uk2eafirx3tK5PTpl-0",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLVpMY3KhyPx6_HSYSmaojBpAByDHCT285"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-20T18:05:24Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "V CAMPEONATO BRASILEIRO DE BIKE POLO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dd0sSDIHaYU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dd0sSDIHaYU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dd0sSDIHaYU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-20T18:05:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CSKHR85r27mV2uhEjne182tPL48",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-24T22:51:15Z",
+                "channelId": "UCUfWL2L20ufCDSMRPVbk-xg",
+                "title": "Brasil Bike Polo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZs6G8fMdlkagImnOTtw7XPn66oyLf08xB3wEHg=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZs6G8fMdlkagImnOTtw7XPn66oyLf08xB3wEHg=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZs6G8fMdlkagImnOTtw7XPn66oyLf08xB3wEHg=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Brasil Bike Polo",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2017-04-24T22:51:15Z"
+            }
+        }
+    ]
+}

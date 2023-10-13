@@ -1,0 +1,32 @@
+const channelId = "UCUfWL2L20ufCDSMRPVbk-";
+// (playlist of the latest videos)
+const uploadsId = "UUUfWL2L20ufCDSMRPVbk-xg";
+// url: https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UUUfWL2L20ufCDSMRPVbk-xg&key=[YOUR_API_KEY] 
+
+
+// const key = 'AIzaSyB2XR4matPhC3s8ey2nIUWEJ_j9I_VUHR0';
+// const key2 = 'AIzaSyBveSRPftiY-IzKE9ZSkq7R7aNC9-l-RMU';
+const key3 = 'AIzaSyBkLijj7vF0Xj3DxGLkU0LYPRlM3mXLAgI';
+
+const GalleryPage = () => {
+
+    const videoSection = document.querySelector('section')
+
+     fetch(`https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${uploadsId}&maxResults=10&order=date&key=${key3}`)
+        .then( res => res.json() )
+        .then( (data) => {
+            console.log(data);
+            data.forEach(el => {
+                <a href="https://www.youtube.com/watch?v=${elementsnippet.resourceId.videoId}" class="youtubeVideo" target="_blank">
+                <img src="https://www.youtube.com/watch?v=${element.snippet.thumbnails.maxres.url}" />
+                videoSection.innerHTML += `<p>${el.snippet.title}</p>
+                </a>
+            });
+            
+
+            const videosList = data.items;
+            })
+        .catch(err => {
+            console.log(err);
+            videoSection.innerHTML = '<p>Oops, something went wrong, try again later</p>'
+        })

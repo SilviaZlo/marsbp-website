@@ -1,0 +1,114 @@
+:root {
+    --primary: rgb(196, 235, 22);
+    --secondary: black;
+    --tertiary: rgb(227, 224, 224);
+}
+
+.contact {
+    /* background-image: url(../assets/galera.jpg); */
+    background-size: cover;
+    background-position: right;
+    box-shadow: inset 0 0 0 1000px rgba(196, 235, 22, 0.6);
+}
+
+.contactContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 0 2rem;
+}
+
+.contactIcons {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.eachIcon {
+    margin: auto .3rem;
+    transition-duration: 0.3s;
+}
+
+.eachIcon:hover,
+.eachIcon:focus {
+    transform: scale(1.5);
+}
+
+.fa-brands {
+    color: var(--secondary);
+    font-size: 1.5rem;
+    border-radius: 5px;
+}
+
+.contactForm {
+    width: 100%;
+    text-align: center;
+}
+
+.formSpaces {
+    font-family: 'Roboto, sans-serif';
+    /* width: 100%; */
+    list-style: none;
+    padding: 0;
+}
+
+.formSpaces li {
+    margin: .5rem auto;
+    /* width: 100%; */
+}
+
+
+input,
+textarea {
+    width: 50%;
+    border-radius: 5px;
+}
+
+        
+input, textarea {
+        border: .1rem solid var(--primary);   
+    }
+
+                 
+textarea {
+    min-height: 6rem;
+    resize: vertical; 
+}
+
+input:hover,
+input:focus,
+textarea:hover,
+textarea:focus {
+    background-color: var(--tertiary);
+    transition: 0.3s ease;
+}
+
+.submitButton {
+            padding: 8px 20px;
+            border-radius: 2px;
+            cursor: pointer;
+            background-color: var(--primary);
+            color: var(--secondary);
+            border: 1px solid var(--secondary);
+            width: 8rem;
+        }
+    
+.submitButton:hover,
+.submitButton:focus {
+    transition: all 0.8s ease;
+    background: var(--secondary);
+    color: white;
+}
+
+@media(max-width: 960px) {
+    input,
+    textarea {
+            width: 100%;
+    }
+}
+
+
+

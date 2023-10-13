@@ -1,0 +1,25 @@
+:root {
+    --primary: rgb(196, 235, 22);
+    --secondary: black;
+    --tertiary:rgb(227, 224, 224);
+}
+
+.footer {
+    background-color: black;
+    height: 2rem;
+    display: flex;
+    justify-content: start;
+    align-items: center; 
+}
+
+footer p {
+    color: var(--tertiary);
+    font-size: .6rem;
+    margin-left: 2rem;
+}
+
+@media(max-width: 960px) {
+    .footer {
+        justify-content: center;
+    }
+}

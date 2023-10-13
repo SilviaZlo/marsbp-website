@@ -1,0 +1,106 @@
+/* navBar styles */
+/* :root {
+    --primary: rgb(196, 235, 22);
+    --secondary: black;
+    ---tertiary: white;
+} */
+
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.heroContainer {
+    height: 100vh;
+    background-color: rgba(93, 92, 92, 0.5);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(163, 154, 118, 0.3);
+    object-fit: contain;
+    margin-top: -3.5rem;    
+}
+
+.heroTextWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heroText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    /* margin-left: 7rem; */
+}
+
+.marsH1 {
+    color: var(--primary);
+    /* border-color: var(--secondary) 2px; */
+    text-shadow: -2px 2px 0 #000,
+            2px 2px 0 #000,
+            2px -2px 0 #000,
+            -2px -2px 0 #000;
+    
+}
+
+.dotH1 {
+color: var(--quaternary);
+/* border-color: var(--secondary) 2px; */
+text-shadow: -2px 2px 0 #000,
+2px 2px 0 #000,
+2px -2px 0 #000,
+-2px -2px 0 #000;
+font-size: 8rem;
+}
+
+.heroP {
+    margin: 1rem 0;
+    color: black;
+    font-size: 32px;
+    font-family: Dosis, sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: left;
+}
+
+.playNpauseButtons {
+    display: flex;
+    width: 3rem;
+    justify-content: space-between;
+    position: fixed;
+    font-size: 1.5rem;
+    top: 5rem; 
+    right:2.5rem; 
+    text-shadow: -1px 1px 0 var(--primary),
+            1px 1px 0 var(--primary),
+            1px -1px 0 var(--primary),
+            -1px -1px 0 var(--primary);
+}
+
+.playButton:hover,
+.pauseButton:hover {
+    transform: scale(1.5);
+    color: var(--primary);
+    text-shadow: -1px 1px 0 var(--secondary),
+            1px 1px 0 var(--secondary),
+            1px -1px 0 var(--secondary),
+            -1px -1px 0 var(--secondary);
+}
+
+@media(max-width: 960px) {
+    .heroText,
+    .herotext p,
+    heroText button {
+        text-align: left;
+    }
+}

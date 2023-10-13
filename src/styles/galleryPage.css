@@ -1,0 +1,43 @@
+/* navBar styles */
+/* :root {
+    --primary: rgb(196, 235, 22);
+    --secondary: black;
+    ---tertiary: white;
+} */
+
+
+
+.galleryPage {
+    background-color: var(--tertiary);  
+    border-left: 2px solid var(--quaternary);
+    border-right: 2px solid var(--quaternary);
+}
+
+.galleryPageDiv {
+    padding: 3rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.galleryPageVideos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.galleryPage h2 {
+    margin-bottom: 1rem;
+}
+
+.videoCard {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    width: 12rem;
+    height: 11rem;
+    margin: 1rem auto;
+}
+
