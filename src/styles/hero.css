@@ -79,8 +79,8 @@ font-size: 8rem;
     justify-content: space-between;
     position: fixed;
     font-size: 1.5rem;
-    top: 5rem; 
-    right:2.5rem; 
+    top: 3rem; 
+    right:2rem; 
     text-shadow: -1px 1px 0 var(--primary),
             1px 1px 0 var(--primary),
             1px -1px 0 var(--primary),
@@ -102,5 +102,10 @@ font-size: 8rem;
     .herotext p,
     heroText button {
         text-align: left;
+    }
+
+    .playNpauseButtons {
+        top: .8rem;
+        right:6rem;
     }
 }

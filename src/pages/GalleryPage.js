@@ -69,7 +69,7 @@ const VideoCard = ({title, videoSrc}) => {
                 height="120" 
                 src={videoSrc}
                 title={title}
-                allowfullscreen
+                allowFullScreen
             >
             </iframe>
         </div>

@@ -1,7 +1,7 @@
 :root {
     --primary: rgb(196, 235, 22);
     --secondary: black;
-    --tertiary:rgb(227, 224, 224);
+    --tertiary:white;
 }
 
 .footer {
@@ -16,6 +16,11 @@ footer p {
     color: var(--tertiary);
     font-size: .6rem;
     margin-left: 2rem;
+}
+
+.linkToSilvia {
+    text-decoration: none;
+    color: var(--tertiary);
 }
 
 @media(max-width: 960px) {
