@@ -36,13 +36,18 @@
 .logoDiv {
     width: 6rem;
     height: 6rem;
-    margin-left: 3rem;
+    margin-top: -7rem;
+    margin-left: 2rem;
 }
 
-.mylogo {
+.mylogoM {
+    font-family: 'Dosis', sans-serif;
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-weight: bold;
     cursor: pointer;
     text-decoration: none;
-    margin: -2.4rem 0 0 -0rem;
+    margin: 1.8rem 0 0 0rem;
     position: absolute;
     background-color: transparent;
     color: var(--primary);
@@ -52,6 +57,15 @@
             -2px -2px 0 #000;
     border-radius: 50%;
 }
+
+.myLogoDot {
+    color: var(--quaternary);
+    text-shadow: -2px 2px 0 #000,
+        2px 2px 0 #000,
+        2px -2px 0 #000,
+        -2px -2px 0 #000;
+    font-size: 8rem;
+    }
 
 .navMenu {
     display: flex;
@@ -131,7 +145,8 @@
     }
 
     .logoDiv {
-        width: 3rem;
+        /* width: 3rem; */
+        margin-top: .2rem;
         margin-left: 1rem;
     }
 
@@ -143,6 +158,14 @@
         transform: translate(-100%, 60%);
         font-size: 1.8rem;
         cursor: pointer;
+    }
+
+    .myLogoM {
+        font-size: 1rem;
+    }
+
+    .myLogoDot {
+        font-size: 4rem;
     }
 }
 

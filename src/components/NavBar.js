@@ -19,7 +19,9 @@ const NavBar = () => {
                 <div className="navContainer">
                     <div className="logoContainer">
                         <Link to="/">
-                            <div className="logoDiv"><h1 className="mylogo">M<span className="dotH1">.</span></h1></div>
+                            <div className="logoDiv">
+                                <p className="mylogoM">M<span className="myLogoDot">.</span></p>
+                            </div>
                         </Link>
                     </div>
 
