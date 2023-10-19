@@ -102,5 +102,6 @@ font-size: 8rem;
     .playNpauseButtons {
         top: .8rem;
         right:6rem;
+        z-index: 20;
     }
 }
